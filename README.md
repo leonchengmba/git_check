@@ -11,3 +11,4 @@ How do you revert (backout) commit?
 Click on discard changes
 
 What does HEAD refer to in the context of git? 
+-2,11 +2,12
